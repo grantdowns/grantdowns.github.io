@@ -2,9 +2,7 @@ body {
 	background-color: grey;
 }
 h1 {
-	text-align: center;
-	margin-top: 5%;
-
+    
 }
 h2 {
 	
@@ -17,4 +15,16 @@ h2 {
 #p2 {
 	font-size: 12px;
 	margin-left:25%;
+}
+nav {
+    margin-right:15px;
+}
+li {
+    float:left;
+    padding: 15px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+ul {
+    list-style: none;
 }
